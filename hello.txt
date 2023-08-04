@@ -13,4 +13,4 @@ hekki git!
 hekki git!
 hekki git!
 hekki git!master test
-hekki git!
+hekki git! hot_fix test
